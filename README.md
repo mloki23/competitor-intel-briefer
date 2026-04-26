@@ -50,11 +50,11 @@ Or just drop the folder into whatever skills directory your agent uses.
 
 Just ask your agent:
 
-- "Research my competitors in the Australian opal market"
 - "Who are the top competitors for project management SaaS?"
 - "Analyze what [Company X] has been up to lately"
 - "Build me a competitive landscape for [industry]"
 - "Compare [Company A] vs [Company B] vs [Company C]"
+- "Research competitors in the online fitness coaching space"
 
 The skill activates automatically when it detects a competitive research request.
 
@@ -74,4 +74,4 @@ MIT — use it however you want.
 
 ## Author
 
-Built by [@opal-digger](https://github.com/opal-digger)
+Built by [@mloki23](https://github.com/mloki23)

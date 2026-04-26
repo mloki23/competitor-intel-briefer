@@ -10,7 +10,7 @@ description: >-
   scout competition, build a competitive landscape, or prepare a market briefing.
 license: MIT
 metadata:
-  author: opal-digger
+  author: mloki23
   version: "1.0"
   category: business
 ---
