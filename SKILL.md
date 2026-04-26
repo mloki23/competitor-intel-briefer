@@ -206,5 +206,8 @@ Structure the briefing as follows:
 - **Be specific, not generic.** Every recommendation should reference actual findings from the research. "Improve your marketing" is useless. "Competitor X is ranking for [keyword] with [content type] — you should create [specific content]" is actionable.
 - **Flag uncertainty.** If you couldn't find pricing, say so. If information seems outdated, note it. Never fabricate data.
 - **Prioritise recency.** A blog post from last month matters more than a review from 2022. Always note when information was published.
-- **Research thoroughly.** Use at least 3-5 searches per competitor. This skill should produce a briefing worth paying for, not a surface-level summary.
+- **Research thoroughly but don't loop.** Use 3-5 searches per competitor, but cap total research at 15-20 searches maximum. Once you have solid data on the major players, STOP researching and compile. Perfectionism kills delivery — a good briefing now beats a perfect briefing never. If some data is missing, note the gap and move on.
+- **Compile promptly.** After completing your research searches, immediately write the briefing. Do not run additional "just one more" searches. The research phase and the writing phase are separate — finish one before starting the other.
+- **Review before saving.** Scan the final output for formatting artifacts, encoding glitches, repeated phrases, or broken markdown tables. Fix any issues before saving.
 - **Save the briefing.** If the agent supports file output, save the briefing as a markdown file the user can keep.
+
